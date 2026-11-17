@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS?color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Human-Resources-Management-System-HRMS?color=green" alt="License" /></a>
@@ -66,7 +66,7 @@ The sector is **moderately to highly fragmented** rather than winner-take-all:
 
 *Ranked in descending order by GitHub stargazers count.*
 
-| Project | Stars | Stack / License | Description & Highlights |
+| Project | GitHub_Stars | Stack / License | Description & Highlights |
 |:---|:---:|:---:|:---|
 | **[Odoo HR](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python / LGPL-3.0 | 🧩 **Modular ERP & HRM Suite:** Complete employee database, recruitment app, attendance, and appraisal modules. Seamlessly ties HR records into accounting, project management, and CRM. *(Community edition lacks built-in payroll; available in Enterprise).* |
 | **[Frappe HR](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | Python, Frappe / GPL-3.0 | 🏆 **The Gold Standard Open-Source HRMS:** 13+ native enterprise modules covering full employee lifecycle, onboarding, geolocated mobile attendance, multi-level expense approvals, KRA appraisals, and robust multi-tax-slab payroll integrated with ERPNext. |
@@ -93,7 +93,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide updated and co
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-hrms`).
 3. 📝 **Add or update entries** in `README.md` following the established table schema:
    - Ensure factual descriptions, pricing tiers, trial constraints, and GitHub repository links.
-   - For open-source entries, include appropriate star badges (`style=social&color=white`) linking to the stargazers page.
+   - For open-source entries, include appropriate Stars_Badges (`style=social&color=white`) linking to the stargazers page.
 4. 🚀 **Commit your changes** (`git commit -m "Add New HRMS platform"`).
 5. 📬 **Open a Pull Request** with a concise summary of the addition or correction.
 
